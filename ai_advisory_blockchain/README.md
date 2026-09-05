@@ -1,0 +1,1 @@
+For the given context assiging the flags 
